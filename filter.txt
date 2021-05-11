@@ -1,1 +1,3 @@
-@||tvnow.de^$important
+@@||tvnow.de^
+@@||de.rt.com^
+
