@@ -1,2 +1,1 @@
-@@||de.rt.com^$important
-@@||tvnow.de^$important
+https://de.rt.com
