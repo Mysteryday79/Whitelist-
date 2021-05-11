@@ -1,1 +1,2 @@
-https://de.rt.com
+@@||de.rt.com^$important
+@@||cdninstagram.com^$important
